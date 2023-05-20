@@ -1,0 +1,21 @@
+{
+  "name": "danbot-hosting-nodes",
+  "version": "1.0.0",
+  "description": "Fetches all Nodes data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Pterodactyl",
+    "Utility",
+    "Script"
+  ],
+  "author": "DIBSTER",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.3.4"
+  }
+}

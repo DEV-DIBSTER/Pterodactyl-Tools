@@ -1,0 +1,7 @@
+# Ignores actual configuration files while still allowing example ones to work.
+**config.json
+!example.config.json
+
+node_modules/
+
+**package-lock.json
