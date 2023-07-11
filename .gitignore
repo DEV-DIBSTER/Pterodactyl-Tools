@@ -2,6 +2,8 @@
 **config.json
 !example.config.json
 
+Nodes.txt
+
 node_modules/
 
 **package-lock.json

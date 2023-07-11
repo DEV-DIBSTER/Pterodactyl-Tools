@@ -8,7 +8,7 @@ function RequestURL(Endpoint) {
             "Authorization": "Bearer " + Config.API_Token,
             "Accept": "application/json",
             "Content-Type": "application/json",
-            "User-Agent": "DBH",
+            "User-Agent":  Config.User_Agent,
             "Cache-Control": "no-store"
         }
     };
